@@ -1,0 +1,1 @@
+module.exports = "It woeks from runoob2.js.";
